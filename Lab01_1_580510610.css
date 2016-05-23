@@ -1,0 +1,80 @@
+body {
+    background-image: url('http://quotesideas.com/wp-content/uploads/2015/05/exciting-beach-wallpapers-beach-wallpaper-for-home-walls-border-android-iphone-free-download-5-sunset.jpg');
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    left: 25%;
+    top: 0px;
+}
+
+.day {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+.menu {
+    width: 100%;
+}
+
+.list {
+    color: #ffffff;
+    text-align: center;
+    background-color: blue;
+    width: 10%;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.number {
+    color: blue;
+    text-align: center;
+    background-color: #ffffff;
+    width: 10%;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.weekend {
+    color: red;
+    text-align: center;
+    background-color: #ffffff;
+    width: 10%;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.birthday {
+    color: #09F409;
+    text-align: center;
+    background-color: #ffffff;
+    width: 10%;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.none {
+    color: #ffffff;
+    text-align: center;
+    background-color: #ffffff;
+    width: 10%;
+    display: inline-block;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+* {
+    font-family: 'Lobster', serif;
+}
